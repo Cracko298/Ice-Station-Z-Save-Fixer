@@ -7,6 +7,10 @@
 
 # Downloads:
 
+- [ISZ-Save-Fixer (Alpha v2)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Fixer/releases/download/v1.0-alpha-1/main.py)
+
+# Legacy Downloads:
+
 - [ISZ-Save-Fixer (Alpha v1)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Fixer/releases/download/v1.0-alpha-1/main.py)
 
 - Main Programmer: *Cracko298*
