@@ -15,4 +15,4 @@
 - [ISZ-Save-Fixer (Alpha v2)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Fixer/releases/download/v2.0-alpha-2/main.py)
 - [ISZ-Save-Fixer (Alpha v1)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Fixer/releases/download/v1.0-alpha-1/main.py)
 
-- Main Programmer: ***@Cracko298***
+- Main Programmer: ***[@Cracko298](https://github.com/Cracko298)***
