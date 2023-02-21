@@ -6,8 +6,8 @@
 
 # Downloads:
 
-- [ISZ-Save-Fixer (Alpha v5)](https://github.com/Cracko298/Ice-Station-Z-Save-Fixer/releases/download/v5.0-alpha-5/Save-Fixer.exe)
-- [NISZSE (New ISZ Save-Editor)](https://github.com/Cracko298/NISZSE). ***Includes the Save-Fixer along with even more cool options.***
+- [ISZ-Save-Fixer (Alpha v5)](https://github.com/Cracko298/Ice-Station-Z-Save-Fixer/releases/download/v5.0-alpha-5/Save-Fixer.exe).
+- [NISZSE (New ISZ Save-Editor)](https://github.com/Cracko298/NISZSE). ***(Includes the Save-Fixer along with even more cool options).***
 
 
 # Legacy Downloads:
