@@ -5,7 +5,7 @@
 - Rename Save-Data to "Data" ***(No Quotes)***
 
 # NOTICE
-- **The [NISZSE](https://github.com/Cracko298/NISZSE) now has more options for fixing Save-Data. And even has [.ISplg Loading]().**
+- **The [NISZSE](https://github.com/Cracko298/NISZSE) now has more options for fixing Save-Data. And even has [.ISplg](https://github.com/Cracko298/ISplg-Compiler) Loading, which allows** ***YOU*** **to make your own Plugins to help others.**
 
 # Downloads:
 
