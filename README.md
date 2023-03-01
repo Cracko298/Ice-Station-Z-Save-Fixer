@@ -6,7 +6,7 @@
 
 # NOTICE
 - **The [NISZSE](https://github.com/Cracko298/NISZSE) now has even more options for fixing & editing Save-Data.**
-- **The [NISZSE](https://github.com/Cracko298/NISZSE) also has [.ISplg](https://github.com/Cracko298/ISplg-Compiler) Loading, which allows** ***YOU*** **to make your own Plugins.**
+- **The [NISZSE](https://github.com/Cracko298/NISZSE) also has an [.ISplg](https://github.com/Cracko298/ISplg-Compiler) Loading System, which allows** ***YOU*** **to make your own Plugins.**
 
 # Downloads:
 
