@@ -5,13 +5,12 @@
 - Rename Save-Data to "Data" ***(No Quotes)***
 
 # NOTICE
-- **The [NISZSE](https://github.com/Cracko298/NISZSE) now has more options for fixing Save-Data.**
+- **The [NISZSE](https://github.com/Cracko298/NISZSE) now has even more options for fixing & editing Save-Data.**
 - **The [NISZSE](https://github.com/Cracko298/NISZSE) also has [.ISplg](https://github.com/Cracko298/ISplg-Compiler) Loading, which allows** ***YOU*** **to make your own Plugins.**
 
 # Downloads:
 
 - [ISZ-Save-Fixer (Alpha v5)](https://github.com/Cracko298/Ice-Station-Z-Save-Fixer/releases/download/v5.0-alpha-5/Save-Fixer.exe).
-- [NISZSE (New ISZ Save-Editor)](https://github.com/Cracko298/NISZSE). ***(Includes the Save-Fixer along with even more cool options).***
 
 
 # Legacy Downloads:
